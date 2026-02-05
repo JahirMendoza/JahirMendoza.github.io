@@ -1,0 +1,29 @@
+body {
+  background-color: #2b1d14;
+  color: #f4ede4;
+  font-family: Verdana, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #d2a679;
+}
+
+header {
+  background-color: #3b2a1f;
+  padding: 12px;
+}
+
+footer {
+  background-color: #3b2a1f;
+  padding: 12px;
+}
+
+a {
+  color: #e6c9a8;
+}
+
+main {
+  padding: 15px;
+}
