@@ -1,0 +1,31 @@
+body {
+  background-color: #f5f1eb;
+  color: #2b1d14;
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Georgia, serif;
+  color: #5a3e2b;
+}
+
+header {
+  background-color: #e6ded3;
+  padding: 12px;
+}
+
+footer {
+  background-color: #e6ded3;
+  padding: 12px;
+}
+
+a {
+  color: #7a5230;
+}
+
+main {
+  background-color: #fffaf5;
+  padding: 15px;
+}
